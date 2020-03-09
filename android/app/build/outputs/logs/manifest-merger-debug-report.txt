@@ -1,0 +1,220 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/iomechs/Documents/testing/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/iomechs/Documents/testing/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/iomechs/Documents/testing/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/iomechs/Documents/testing/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from /home/iomechs/Documents/testing/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [com.facebook.react:react-native:0.61.5] /home/iomechs/.gradle/caches/transforms-2/files-2.1/a8466fefd33ab54e2842970817821c1a/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] /home/iomechs/.gradle/caches/transforms-2/files-2.1/c3859a93b99417799949f1142df3700e/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/iomechs/.gradle/caches/transforms-2/files-2.1/b395b9f581c7d9b78e26e7552a2f1ec0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/68c4c07065d62dffcf692a229982b1f7/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/e3caa1d6dfa8761fb6cd81f94e8f2e13/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/48b78345b70034e87d755ea24fd7c9e8/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/c70e415120bfd2b01b59dea364a77784/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/4896f5f2c2c93dca7493feed1529b1d7/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/56f7fb1d08372c4108912b26b59ed0c2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/4f50261c5908e1a6968ac00fa7d0c7a6/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/2e42df4afb3bce14be96d7d351d415db/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.fragment:fragment:1.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/00d9343ebf755e4d21d3f07058a0262f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/e814f9a587ca70cc2e51be720aba49e8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/786ef2ebacf0537487c5be5981889bcd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/566eca0a1a8e7f6cbf5e9e22c19aa69c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/iomechs/.gradle/caches/transforms-2/files-2.1/feae81a142c3c46d5fa3c6a347698511/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/e3db267589f44e04576348d309e0fbb4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/dd4a0bc3def51cc144c8e4939821e980/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/466e0110154e091e302a3f5a8e05210b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/1bcd8db27e05ad5b2a005fb41e8bf805/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/0b33c4c6c3eb7ade4bdb2433bbd721e4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/7b058eb4d3e20a0daa2e9a9ab1f1c181/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/747e640da6c47542d31561660ad03cbe/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/7c1093e8e8a14bd9f170fa715211b9d9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /home/iomechs/.gradle/caches/transforms-2/files-2.1/7d40edf232851a8cfdefdc9f9158fd24/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/384e3b2662a7649ec780b7fca3eb33d9/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/c538d989825d521cf3810672521411e3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/033e2ad068e786618582fcf192a51c55/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/07892ec8280fb6c4fea3c85ee0322323/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/941dfb31e34d638c2fee477ef78ca443/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/6baa29484b61f9cac46fada8f9a7a9df/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/0df07339b1e61d4a95807ad11f183d8d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/0eeca8f1acc5c5a25a69aee96dc43b0a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/9a445b3b360a43cba3bdb2a5d246d5f8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/86f957ebab0ff5daba81fd78b518f2b7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/6db16481faed8ffde4aa0fc1c793fb5c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/3573aa71dd35bb9f38f0cef24b0b6c52/AndroidManifest.xml:2:1-9:12
+INJECTED from /home/iomechs/Documents/testing/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /home/iomechs/Documents/testing/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /home/iomechs/Documents/testing/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /home/iomechs/Documents/testing/android/app/src/main/AndroidManifest.xml:2:3-24
+		INJECTED from /home/iomechs/Documents/testing/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/iomechs/Documents/testing/android/app/src/main/AndroidManifest.xml:2:3-24
+		INJECTED from /home/iomechs/Documents/testing/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/iomechs/Documents/testing/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/iomechs/Documents/testing/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /home/iomechs/Documents/testing/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/iomechs/Documents/testing/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/iomechs/Documents/testing/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/iomechs/Documents/testing/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /home/iomechs/Documents/testing/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/iomechs/Documents/testing/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/iomechs/Documents/testing/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /home/iomechs/Documents/testing/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /home/iomechs/Documents/testing/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /home/iomechs/Documents/testing/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /home/iomechs/Documents/testing/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.61.5] /home/iomechs/.gradle/caches/transforms-2/files-2.1/a8466fefd33ab54e2842970817821c1a/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.5] /home/iomechs/.gradle/caches/transforms-2/files-2.1/a8466fefd33ab54e2842970817821c1a/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/2e42df4afb3bce14be96d7d351d415db/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/2e42df4afb3bce14be96d7d351d415db/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.0.1] /home/iomechs/.gradle/caches/transforms-2/files-2.1/7d40edf232851a8cfdefdc9f9158fd24/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /home/iomechs/.gradle/caches/transforms-2/files-2.1/7d40edf232851a8cfdefdc9f9158fd24/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/384e3b2662a7649ec780b7fca3eb33d9/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/384e3b2662a7649ec780b7fca3eb33d9/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /home/iomechs/.gradle/caches/transforms-2/files-2.1/7d40edf232851a8cfdefdc9f9158fd24/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /home/iomechs/Documents/testing/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /home/iomechs/Documents/testing/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /home/iomechs/Documents/testing/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /home/iomechs/Documents/testing/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /home/iomechs/Documents/testing/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /home/iomechs/Documents/testing/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /home/iomechs/Documents/testing/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /home/iomechs/Documents/testing/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /home/iomechs/Documents/testing/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /home/iomechs/Documents/testing/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /home/iomechs/Documents/testing/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /home/iomechs/Documents/testing/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /home/iomechs/Documents/testing/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /home/iomechs/Documents/testing/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /home/iomechs/Documents/testing/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.testing.MainActivity
+ADDED from /home/iomechs/Documents/testing/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /home/iomechs/Documents/testing/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /home/iomechs/Documents/testing/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /home/iomechs/Documents/testing/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /home/iomechs/Documents/testing/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/iomechs/Documents/testing/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /home/iomechs/Documents/testing/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /home/iomechs/Documents/testing/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/iomechs/Documents/testing/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /home/iomechs/Documents/testing/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/iomechs/Documents/testing/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /home/iomechs/Documents/testing/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /home/iomechs/Documents/testing/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/iomechs/Documents/testing/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/iomechs/Documents/testing/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.61.5] /home/iomechs/.gradle/caches/transforms-2/files-2.1/a8466fefd33ab54e2842970817821c1a/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /home/iomechs/.gradle/caches/transforms-2/files-2.1/a8466fefd33ab54e2842970817821c1a/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /home/iomechs/.gradle/caches/transforms-2/files-2.1/c3859a93b99417799949f1142df3700e/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /home/iomechs/.gradle/caches/transforms-2/files-2.1/c3859a93b99417799949f1142df3700e/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/iomechs/.gradle/caches/transforms-2/files-2.1/b395b9f581c7d9b78e26e7552a2f1ec0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/iomechs/.gradle/caches/transforms-2/files-2.1/b395b9f581c7d9b78e26e7552a2f1ec0/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/68c4c07065d62dffcf692a229982b1f7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/68c4c07065d62dffcf692a229982b1f7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/e3caa1d6dfa8761fb6cd81f94e8f2e13/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/e3caa1d6dfa8761fb6cd81f94e8f2e13/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/48b78345b70034e87d755ea24fd7c9e8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/48b78345b70034e87d755ea24fd7c9e8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/c70e415120bfd2b01b59dea364a77784/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/c70e415120bfd2b01b59dea364a77784/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/4896f5f2c2c93dca7493feed1529b1d7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/4896f5f2c2c93dca7493feed1529b1d7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/56f7fb1d08372c4108912b26b59ed0c2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/56f7fb1d08372c4108912b26b59ed0c2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/4f50261c5908e1a6968ac00fa7d0c7a6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/4f50261c5908e1a6968ac00fa7d0c7a6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/2e42df4afb3bce14be96d7d351d415db/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/2e42df4afb3bce14be96d7d351d415db/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.fragment:fragment:1.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/00d9343ebf755e4d21d3f07058a0262f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/00d9343ebf755e4d21d3f07058a0262f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/e814f9a587ca70cc2e51be720aba49e8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/e814f9a587ca70cc2e51be720aba49e8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/786ef2ebacf0537487c5be5981889bcd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/786ef2ebacf0537487c5be5981889bcd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/566eca0a1a8e7f6cbf5e9e22c19aa69c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/566eca0a1a8e7f6cbf5e9e22c19aa69c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/iomechs/.gradle/caches/transforms-2/files-2.1/feae81a142c3c46d5fa3c6a347698511/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/iomechs/.gradle/caches/transforms-2/files-2.1/feae81a142c3c46d5fa3c6a347698511/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/e3db267589f44e04576348d309e0fbb4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/e3db267589f44e04576348d309e0fbb4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/dd4a0bc3def51cc144c8e4939821e980/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/dd4a0bc3def51cc144c8e4939821e980/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/466e0110154e091e302a3f5a8e05210b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/466e0110154e091e302a3f5a8e05210b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/1bcd8db27e05ad5b2a005fb41e8bf805/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/1bcd8db27e05ad5b2a005fb41e8bf805/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/0b33c4c6c3eb7ade4bdb2433bbd721e4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/0b33c4c6c3eb7ade4bdb2433bbd721e4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/7b058eb4d3e20a0daa2e9a9ab1f1c181/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/7b058eb4d3e20a0daa2e9a9ab1f1c181/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/747e640da6c47542d31561660ad03cbe/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/747e640da6c47542d31561660ad03cbe/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/7c1093e8e8a14bd9f170fa715211b9d9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/7c1093e8e8a14bd9f170fa715211b9d9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/iomechs/.gradle/caches/transforms-2/files-2.1/7d40edf232851a8cfdefdc9f9158fd24/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/iomechs/.gradle/caches/transforms-2/files-2.1/7d40edf232851a8cfdefdc9f9158fd24/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/384e3b2662a7649ec780b7fca3eb33d9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/384e3b2662a7649ec780b7fca3eb33d9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/c538d989825d521cf3810672521411e3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/c538d989825d521cf3810672521411e3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/033e2ad068e786618582fcf192a51c55/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/033e2ad068e786618582fcf192a51c55/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/07892ec8280fb6c4fea3c85ee0322323/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/07892ec8280fb6c4fea3c85ee0322323/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/941dfb31e34d638c2fee477ef78ca443/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/941dfb31e34d638c2fee477ef78ca443/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/6baa29484b61f9cac46fada8f9a7a9df/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/6baa29484b61f9cac46fada8f9a7a9df/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/0df07339b1e61d4a95807ad11f183d8d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/0df07339b1e61d4a95807ad11f183d8d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/0eeca8f1acc5c5a25a69aee96dc43b0a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/0eeca8f1acc5c5a25a69aee96dc43b0a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/9a445b3b360a43cba3bdb2a5d246d5f8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/9a445b3b360a43cba3bdb2a5d246d5f8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/86f957ebab0ff5daba81fd78b518f2b7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/86f957ebab0ff5daba81fd78b518f2b7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/6db16481faed8ffde4aa0fc1c793fb5c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/6db16481faed8ffde4aa0fc1c793fb5c/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/3573aa71dd35bb9f38f0cef24b0b6c52/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/iomechs/.gradle/caches/transforms-2/files-2.1/3573aa71dd35bb9f38f0cef24b0b6c52/AndroidManifest.xml:5:5-7:41
+INJECTED from /home/iomechs/Documents/testing/android/app/src/debug/AndroidManifest.xml
+INJECTED from /home/iomechs/Documents/testing/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/iomechs/Documents/testing/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/iomechs/Documents/testing/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/iomechs/Documents/testing/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/iomechs/Documents/testing/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/iomechs/Documents/testing/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /home/iomechs/Documents/testing/android/app/src/debug/AndroidManifest.xml:5:22-75

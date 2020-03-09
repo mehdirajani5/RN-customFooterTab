@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/iomechs/Documents/testing/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
+            "map": [
+                {
+                    "source": "/home/iomechs/.gradle/caches/transforms-2/files-2.1/b395b9f581c7d9b78e26e7552a2f1ec0/res/values-v24/values-v24.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,212",
+                        "endColumns": "156,134",
+                        "endOffsets": "207,342"
+                    }
+                }
+            ]
+        }
+    ]
+}
