@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/iomechs/Documents/testing/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-kn/values-kn.xml",
+            "outputFile": "/home/iomechs/Documents/RN-customFooterTab/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-kn/values-kn.xml",
             "map": [
                 {
                     "source": "/home/iomechs/.gradle/caches/transforms-2/files-2.1/b395b9f581c7d9b78e26e7552a2f1ec0/res/values-kn/values-kn.xml",
